@@ -3,14 +3,16 @@
 ## Node version 20.x
 
 ## Instructions
-Please clone this repo and do the following assessment:
 
-Create a resize and reposition using appropriate libs to the below charts and tables with the following mock data from Redux.
-- tables
-- line charts
-- pie charts
-- bar charts
+1. yarn && yarn dev
 
 
+Library used:
+- React DND
+- MUI
+- Redux
+- Recharts
+  
 
+https://github.com/user-attachments/assets/5d51fad5-2c46-44a4-abb6-e1d646a56f09
 
